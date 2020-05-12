@@ -5,7 +5,7 @@ gestão. Mediante essa necessidade desenvolvemos um banco de dados para atender 
 
 ## Atualmente o seguinte diagrama corresponde ao banco de dados:
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-transportadora/blob/master/images/db_farmacia.png">
+<img src="https://github.com/MatheusFranciscone/projeto-transportadora/blob/master/images/db_farmacia.png " width = 727,5‬ height= 466,5>
 </p>
 
 # O projeto foi desenvolvido através da linguagem: 
