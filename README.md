@@ -1,3 +1,8 @@
+
+<p align="center">
+<img src="https://github.com/MatheusFranciscone/projeto-transportadora/blob/master/images/database-image.png ">
+</p>
+
 # Situação Problema: Transportadora.
 
 Uma transportadora necessita de um banco de dados para organizar todas as suas informações e melhorar a sua
@@ -5,7 +10,7 @@ gestão. Mediante essa necessidade desenvolvemos um banco de dados para atender 
 
 ## Atualmente o seguinte diagrama corresponde ao banco de dados:
 <p align="center">
-<img src="https://github.com/MatheusFranciscone/projeto-transportadora/blob/master/images/db_farmacia.png ">
+<img src="https://github.com/MatheusFranciscone/projeto-transportadora/blob/master/images/db_transportadora.png ">
 </p>
 
 # O projeto foi desenvolvido através da linguagem: 
