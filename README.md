@@ -4,7 +4,9 @@ Uma transportadora necessita de um banco de dados para organizar todas as suas i
 gestão. Mediante essa necessidade desenvolvemos um banco de dados para atender as necessidades da transportadora.
 
 ## Atualmente o seguinte diagrama corresponde ao banco de dados:
-
+<p align="center">
+<img src="https://github.com/MatheusFranciscone/projeto-transportadora/blob/master/imagens-quiz/image-icon.png">
+</p>
 
 # O projeto foi desenvolvido através da linguagem: 
  * SQL
