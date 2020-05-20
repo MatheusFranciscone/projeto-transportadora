@@ -6,7 +6,7 @@
 # Situação Problema: Transportadora
 
 Uma transportadora necessita de um banco de dados para organizar todas as suas informações e melhorar a sua
-gestão. Mediante essa necessidade desenvolvemos um banco de dados para atender as necessidades da transportadora.
+gestão. Mediante esse problema desenvolvemos um banco de dados para atender as necessidades da transportadora.
 
 Criando-se assim, três scripts: 
 - DDL = Inserção (Comando: ```insert```)
